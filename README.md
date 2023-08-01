@@ -19,8 +19,7 @@ Bar Plots to find coorelation of features with target varible._
 
 
 **XGBoost Model with hypertuning:**
-_Hypertuned parameters like n_estimators,max_depth,min_child_weight,subsample, colsample_bytree,objective function and improved model CV Score from 0.699 to 0.724.
-_
+_Hypertuned parameters like n_estimators,max_depth,min_child_weight,subsample, colsample_bytree,objective function and improved model CV Score from   0.699 to 0.724._
 
 
 
